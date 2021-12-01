@@ -79,6 +79,7 @@ namespace UnusualEvents
             this.maskedTextBoxCnpj.Name = "maskedTextBoxCnpj";
             this.maskedTextBoxCnpj.Size = new System.Drawing.Size(231, 23);
             this.maskedTextBoxCnpj.TabIndex = 7;
+            this.maskedTextBoxCnpj.Culture = System.Globalization.CultureInfo.InvariantCulture;
             // 
             // labelNome
             // 

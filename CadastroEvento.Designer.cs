@@ -131,7 +131,7 @@ namespace UnusualEvents
             this.labelDescricao.Name = "labelDescricao";
             this.labelDescricao.Size = new System.Drawing.Size(58, 15);
             this.labelDescricao.TabIndex = 7;
-            this.labelDescricao.Text = "Descricao";
+            this.labelDescricao.Text = "Descrição";
             // 
             // richTextBoxDescricao
             // 
@@ -232,7 +232,7 @@ namespace UnusualEvents
             this.labelPreco.Name = "labelPreco";
             this.labelPreco.Size = new System.Drawing.Size(37, 15);
             this.labelPreco.TabIndex = 21;
-            this.labelPreco.Text = "Preco";
+            this.labelPreco.Text = "Preço";
             // 
             // labelRequisitos
             // 
@@ -269,7 +269,7 @@ namespace UnusualEvents
             this.checkBoxVacinacao.Name = "checkBoxVacinacao";
             this.checkBoxVacinacao.Size = new System.Drawing.Size(79, 19);
             this.checkBoxVacinacao.TabIndex = 25;
-            this.checkBoxVacinacao.Text = "Vacinacao";
+            this.checkBoxVacinacao.Text = "Vacinação";
             this.checkBoxVacinacao.UseVisualStyleBackColor = true;
             // 
             // checkBoxMascara
@@ -279,7 +279,7 @@ namespace UnusualEvents
             this.checkBoxMascara.Name = "checkBoxMascara";
             this.checkBoxMascara.Size = new System.Drawing.Size(70, 19);
             this.checkBoxMascara.TabIndex = 26;
-            this.checkBoxMascara.Text = "Mascara";
+            this.checkBoxMascara.Text = "Máscara";
             this.checkBoxMascara.UseVisualStyleBackColor = true;
             // 
             // checkBoxIdade

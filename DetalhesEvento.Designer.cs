@@ -68,7 +68,7 @@ namespace UnusualEvents
             this.labelEndereco.Name = "labelEndereco";
             this.labelEndereco.Size = new System.Drawing.Size(62, 15);
             this.labelEndereco.TabIndex = 2;
-            this.labelEndereco.Text = "Endereco: ";
+            this.labelEndereco.Text = "Endereço: ";
             // 
             // labelDataHora
             // 
@@ -77,7 +77,7 @@ namespace UnusualEvents
             this.labelDataHora.Name = "labelDataHora";
             this.labelDataHora.Size = new System.Drawing.Size(68, 15);
             this.labelDataHora.TabIndex = 3;
-            this.labelDataHora.Text = "Date/Hora: ";
+            this.labelDataHora.Text = "Data/Hora: ";
             // 
             // labelRequisitos
             // 
@@ -122,7 +122,7 @@ namespace UnusualEvents
             this.labelPreco.Name = "labelPreco";
             this.labelPreco.Size = new System.Drawing.Size(43, 15);
             this.labelPreco.TabIndex = 9;
-            this.labelPreco.Text = "Preco: ";
+            this.labelPreco.Text = "Preço: ";
             // 
             // buttonIncrever
             // 

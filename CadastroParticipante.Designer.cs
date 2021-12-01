@@ -101,6 +101,7 @@ namespace UnusualEvents
             this.maskedTextBoxCpf.Name = "maskedTextBoxCpf";
             this.maskedTextBoxCpf.Size = new System.Drawing.Size(201, 23);
             this.maskedTextBoxCpf.TabIndex = 6;
+            this.maskedTextBoxCpf.Culture = System.Globalization.CultureInfo.InvariantCulture;
             // 
             // maskedTextBoxRg
             // 
@@ -109,6 +110,7 @@ namespace UnusualEvents
             this.maskedTextBoxRg.Name = "maskedTextBoxRg";
             this.maskedTextBoxRg.Size = new System.Drawing.Size(201, 23);
             this.maskedTextBoxRg.TabIndex = 7;
+            this.maskedTextBoxRg.Culture = System.Globalization.CultureInfo.InvariantCulture;
             // 
             // textBoxIdade
             // 
